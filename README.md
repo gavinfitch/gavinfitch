@@ -3,10 +3,10 @@
 My name is Gavin Fitch and I'm a software engineer located in greater Seattle area. My background is primarily in JavaScript and Python, but the list of technologies I frequently work with includes: 
 <br>
 <br>
-JavaScript | Python | React | Redux | Express.js | Flask | Sequelize | SQLAlchemy | PostgreSQL | C
+JavaScript | Node.js | React | Redux | Python | Express.js | Flask | Sequelize | SQLAlchemy | PostgreSQL
 <br>
 <br>
-To check out some of my recent projects head over to my "Jamify", "Friendstagram", and "Pixel" repositories. I frequently update my "DataStructures-and-Algorithms" repository with Leetcode style problem solutions and other DS&A related code snippets that I like to have on hand for later implementation in future projects. If that's something you think you'd find useful, feel free to copy any of these functions for your own personal use. Beyond code I'm a musician, audio engineer, photographer, and occasionally do film work.
+Outside of Software Engineering my hobbies include playing and recording music, as well as spending time with my dog Rafa.
 
 <!--
 **gavinfitch/gavinfitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

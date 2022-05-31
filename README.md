@@ -1,13 +1,12 @@
 ### Hello! 👋
 
-My name is Gavin Fitch and I'm a software engineer located in greater Seattle area. My background is primarily in JavaScript and Python, but the list of technologies I frequently work with includes: 
+My name is Gavin Fitch and I'm a Software Engineer located in greater Seattle area. My background is primarily in JavaScript and Python, but the list of technologies I frequently work with includes: 
 <br>
 <br>
 JavaScript | Node.js | React | Redux | Python | Express.js | Flask | Sequelize | SQLAlchemy | PostgreSQL
 <br>
 <br>
 Outside of Software Engineering my hobbies include playing and recording music, as well as spending time with my dog Rafa.
-
 <!--
 **gavinfitch/gavinfitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
